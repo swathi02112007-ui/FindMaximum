@@ -1,4 +1,3 @@
-<img width="1310" height="803" alt="image" src="https://github.com/user-attachments/assets/8dc3ffb0-17a4-4fdb-94c4-6806870f6440" /># Find the maximum of a list of numbers
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
